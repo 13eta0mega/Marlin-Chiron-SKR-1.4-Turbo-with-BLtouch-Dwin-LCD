@@ -43,3 +43,15 @@ And we directly modeled and applied direct extruders and motherboard cases.
 - 메인보드 변경 (trigorilla board -> SKR 1.4 Turbo)
 
 - 메인보드 팬 변경
+
+# 필요한 부품 리스트
+
+- **[SD 카드 확장 케이블]()**
+
+- **[Ender 3 V2 LCD](https://ko.aliexpress.com/item/1005002344513406.html?gatewayAdapt=glo2kor&spm=a2g0o.order_list.0.0.21ef140f73gCIA)**
+
+- **[]()**
+
+- **[]()**
+
+- **[]()**
