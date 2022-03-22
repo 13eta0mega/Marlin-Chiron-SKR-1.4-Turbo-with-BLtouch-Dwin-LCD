@@ -44,7 +44,7 @@ And we directly modeled and applied direct extruders and motherboard cases.
 
 - 메인보드 팬 변경
 
-# 필요한 부품 리스트
+## 필요한 부품 리스트
 
 - **[SD 카드 확장 케이블](https://fr.aliexpress.com/item/4000405842609.html?spm=a2g0o.productlist.0.0.53c846b6Hn52Kr&algo_pvid=180289da-d1b1-4f24-a353-3bc05e539f39&algo_exp_id=180289da-d1b1-4f24-a353-3bc05e539f39-0&pdp_ext_f=%7B%22sku_id%22%3A%2210000001675153781%22%7D&pdp_pi=-1%3B1.79%3B-1%3B-1%40salePrice%3BUSD%3Bsearch-mainSearch)**
 
