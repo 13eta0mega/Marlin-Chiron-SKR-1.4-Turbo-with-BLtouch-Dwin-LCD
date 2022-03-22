@@ -50,8 +50,8 @@ And we directly modeled and applied direct extruders and motherboard cases.
 
 - **[Ender 3 V2 LCD](https://ko.aliexpress.com/item/1005002344513406.html?gatewayAdapt=glo2kor&spm=a2g0o.order_list.0.0.21ef140f73gCIA)**
 
-- **[]()**
+- **[스텝모터 LDO-42STH20-1004ASH](https://ko.aliexpress.com/item/1005003505769393.html?spm=a2g0o.productlist.0.0.17f14283GIIWnm&algo_pvid=73b5fbff-4236-4114-ab6f-0df3ae4475a9&algo_exp_id=73b5fbff-4236-4114-ab6f-0df3ae4475a9-6&pdp_ext_f=%7B%22sku_id%22%3A%2212000026092857083%22%7D&pdp_pi=-1%3B7.32%3B-1%3B-1%40salePrice%3BUSD%3Bsearch-mainSearch)**
 
-- **[]()**
+- **[XH2.54](https://ko.aliexpress.com/item/4000126563819.html?gatewayAdapt=glo2kor&spm=a2g0o.order_list.0.0.21ef140f73gCIA)**
 
 - **[]()**
