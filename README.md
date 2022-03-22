@@ -90,7 +90,7 @@ And we directly modeled and applied direct extruders and motherboard cases.
 
 - **[관련 유투브 링크 3](https://www.youtube.com/watch?v=5Tv-4q0UEOs&ab_channel=PatClevenger)**
 
-- **[관련 유투브 링크 4](https://www.youtube.com/watch?v=gzrw0lABCBE&ab_channel=SolutionHungaryOne)**
+- **[관련 유투브 링크 Ender3 v2 LCD 적용법](https://www.youtube.com/watch?v=gzrw0lABCBE&ab_channel=SolutionHungaryOne)**
 
 - **[SKR v1.4 / v1.4 Turbo with TMC2209 Sensorless drivers and Display TFT35 V3.0 가이드](https://3dwork.io/en/complete-guide-skr-v1-4-and-tmc2209/)**
 
